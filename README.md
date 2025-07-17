@@ -5,7 +5,7 @@ If you find doc issues / errors or have an improvement you'd like to suggest, pl
 Note: This repo's issue tracker is only for reporting issues with the WSL docs. Other related issue repo's:
 
 WSL: https://github.com/debjeet777/WSL/
-Windows Console: https://github.com/debjeet777/Terminal/
+
 External Links
 Rendered documentation website
 
